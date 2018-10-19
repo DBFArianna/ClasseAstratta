@@ -56,8 +56,8 @@ class C extends A {
 //        perché qui ho informazioni in più
         return "\ne capace di cuocere il pollo";
     }
+    
 //    faccio il metodo toString
-
     @Override
     public String toString() {
 //        ritorna una stringa
